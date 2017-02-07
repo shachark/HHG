@@ -1,0 +1,5 @@
+exportPattern("^hhg.+")
+exportPattern("^xdp.+")
+exportPattern("^datagen+")
+exportPattern("^dynamic.+")
+useDynLib(HHG, HHG_R_C)
